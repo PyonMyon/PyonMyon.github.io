@@ -1,5 +1,5 @@
 # PyonMyon Website
-**This is a repository intended to host website and store the files intended for the website.**
+**This is a repository to host website and store the files intended for the website.**
 
 ## Languages used
 - `HTML`<br />
